@@ -1,6 +1,6 @@
 const Config = {
-    creator: "Natsumi",
-    web: "https://chitoge.win",
+    creator: "Fahrizal",
+    web: "https://dvcx.vercel.app",
     message: {
         invalidQuery: "Invalid query parameters provided.",
         invalidUrl: "The requested URL is invalid.",
@@ -17,7 +17,7 @@ const Config = {
         deleted: "Resource was deleted successfully."
     },
     info: {
-        title: "Chitoge API",
+        title: "Dcvx Rest Api",
         description: "Chitoge API Documentation",
         email: "rizz@chitoge.win",
     }
