@@ -17,9 +17,9 @@ const Config = {
         deleted: "Resource was deleted successfully."
     },
     info: {
-        title: "Dcvx Rest Api",
-        description: "Chitoge API Documentation",
-        email: "rizz@chitoge.win",
+        title: "Dvcx Rest Api",
+        description: "Dvcx API Documentation",
+        email: "acioospprt@gmail.com",
     }
 };
 
