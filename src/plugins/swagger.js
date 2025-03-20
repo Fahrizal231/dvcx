@@ -50,7 +50,7 @@ module.exports = async function (fastify) {
             layout: "BaseLayout",
         },
         theme: {
-            title: "Chitoge RestAPIs",
+            title: "Dvcx RestAPIs",
             css: [{ filename: "theme.css", content }],
             favicon: [
                 {
